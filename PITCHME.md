@@ -12,19 +12,19 @@ don't...
 * acknowledge the homeless problem.
 ---
 # Design
++++
+We're on the right track...
 * OpenAPI is the default.
 * Version '2' is still the standard for most.
----
++++
 Zally
 * openapi spec linter
 * codeable rule enforcement
 * https://github.com/zalando-incubator/zally
----
++++
 # Toy Model
 * {{stale_api document reference}}
 TODO: Make API Spec
-+++
-
 ---
 # For the Greater Good
 
