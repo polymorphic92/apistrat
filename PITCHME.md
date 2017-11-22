@@ -1,15 +1,15 @@
 # API Strat
 +++?image=assets/images/portland.png
 +++
-##do...
-	* eat Voodoo Doughnuts.
-	* hike Forest Park.
-	* visit Powell's and the Saturday Market
+## do...
+* eat Voodoo Doughnuts.
+* hike Forest Park.
+* visit Powell's and the Saturday Market
 +++
-##don't...
-	* ignore the east side.
-	* rent a car.
-	* acknowledge the homeless problem.
+## don't...
+* ignore the east side.
+* rent a car.
+* acknowledge the homeless problem.
 ---
 # Design 
 
