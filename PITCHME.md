@@ -16,3 +16,4 @@
 
 ---
 # Page 6
+/play nyan
