@@ -1,7 +1,5 @@
 # API Strat
-+++
-## Portland
-## 10/31 \<=\> 11/2
++++?image=assets/images/portland.png
 ---
 # Design 
 
