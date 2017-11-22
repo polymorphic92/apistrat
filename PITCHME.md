@@ -22,9 +22,8 @@ Zally
 * codeable rule enforcement
 * https://github.com/zalando-incubator/zally
 +++
-# Toy Model
+e.g.
 * {{stale_api document reference}}
-TODO: Make API Spec
 ---
 # For the Greater Good
 
