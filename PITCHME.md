@@ -1,7 +1,7 @@
 # API Strat
-## -2017
-## -Portland, Oregon
-
++++
+## Portland
+## 10/31 \<=\> 11/2
 ---
 # Design 
 
