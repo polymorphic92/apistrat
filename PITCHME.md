@@ -1,4 +1,4 @@
-# ![APIStrat Logo](https://github.com/js422/apistrat/blob/master/assets/images/apistratlogo.png)
+# ![APIStrat Logo](assets/images/apistratlogo.png)
 ## [ app-e-strat ]
 ---
 # What?
