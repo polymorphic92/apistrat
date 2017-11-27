@@ -1,4 +1,5 @@
 ![Logo](http://events.linuxfoundation.org/sites/events/files/logo_apistrat_white.png)
+[ app - e - strat ]
 ---
 # What was it?
 +++?image=assets/images/workshops-text.jpg&size=contain
