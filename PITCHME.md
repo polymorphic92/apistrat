@@ -73,7 +73,12 @@ Leveraging openshift continues to become easier and easier:
 ---
 # How could we be using our APIs?
 +++
+We aren't locked into our api standards yet
 
+We could be using the following technologies:
+* hypermedia
+* graphQL
+* serverless architectures
 ---
 # The Verdict?
 +++
