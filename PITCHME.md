@@ -5,10 +5,10 @@
 +++
 # Duration
 * One day of workshops
-+++?image=assets/images/workshop.jpg
++++?image=assets/images/workshop.jpg&size=contain
 +++
 * Two days of 40 minute long presentations
-+++?image=assets/images/presentation.jpg
++++?image=assets/images/presentation.jpg&size=contain
 +++
 # Size 
 ...medium ...
