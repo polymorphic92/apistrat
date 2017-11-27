@@ -1,4 +1,4 @@
-# ![APIStrat Logo](./assets/images/apistratlogo.png) API Strat
+# ![APIStrat Logo][./assets/images/apistratlogo.png] API Strat
 ## [ app-e-strat ]
 ---
 # What?
