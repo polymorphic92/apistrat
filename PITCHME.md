@@ -51,7 +51,7 @@ Portland "don't"s...
 * We should standardize to industry security.
 * ...and so much more...
 +++
-# I needed to see how the industry approached these and other API pain points.
+### I needed to see how the industry approached these and other API pain points.
 ---
 # How we could be documenting our APIs?
 ---
