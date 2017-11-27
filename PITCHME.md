@@ -1,7 +1,7 @@
 # APIStrat
 ## [ app-e-strat ]
 ---
-# What?
+# What was it?
 +++?image=assets/images/workshops-text.jpg&size=contain
 +++?image=assets/images/presentations-text.jpg&size=contain
 +++
@@ -15,7 +15,7 @@
 * Smart Bear Developers
 * and Various Community Developers
 ---
-# Where?
+# Where was it?
 +++?image=assets/images/portland.png
 +++
 do...
@@ -28,9 +28,29 @@ don't...
 * rent a car.
 * acknowledge the homeless problem.
 ---
-# Why?
+# Why did I propose it?
++++
+# We need more documentation
+* ...that's consistent.
+* ...that accounts for various versions across environments.
+* ...that's will answer most user inquiries.
++++
+# We need a common language
+* What's a mediation layer, a translation layer, transportation layer...?
+* How do you define REST endpoints?
+* Is it OpenAPI v3, OpenAPI v2, or Swagger?
++++
+# We need a way to more quickly diagnose failures complicated requests?
+* How do I trace a specific request?
+* How can we analyze requests without needing to change the legacy infrastructure?
+* Is it a software or hardware problem?
++++
+# We should automate more!
++++
+# I needed to see how the industry approached these and other API pain points.
 ---
 # How we could be documenting our APIs?
+
 ---
 # How we could be implementing our APIs?
 ---
