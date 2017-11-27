@@ -1,4 +1,9 @@
-# API Strat
+# ![APIStrat Logo](assets/images/apistratlogo.png) API Strat
+## [ app-e-strat ]
+---
+# What?
+---
+# Where?
 +++?image=assets/images/portland.png
 +++
 do...
@@ -11,37 +16,15 @@ don't...
 * rent a car.
 * acknowledge the homeless problem.
 ---
-# Design
-+++
-We're on the right track...
-* OpenAPI is the default.
-* Version '2' is still the standard for most.
-+++
-Zally
-* openapi spec linter
-* codeable rule enforcement
-* https://github.com/zalando-incubator/zally
-+++
-e.g.
-* {{stale_api document reference}}
+# Why?
 ---
-# For the Greater Good
-
+# How we could be documenting our APIs?
 ---
-# Management
-
+# How we could be implementing our APIs?
 ---
-# Security
-
+# How we should be using our APIs?
 ---
-# Usability
-
----
-# Hypermedia
-
----
-# IOT
-
+# The Verdict?
 ---
 # End
 
