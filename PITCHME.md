@@ -1,4 +1,4 @@
-# ![APIStrat Logo](assets/images/apistratlogo.png)
+# ![APIStrat Logo](http://apistrat.com/wp-content/uploads/2014/12/apisrtrat-logo.png)
 ## [ app-e-strat ]
 ---
 # What?
