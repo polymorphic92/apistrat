@@ -1,7 +1,25 @@
-# ![APIStrat Logo](https://pbs.twimg.com/profile_images/2555236457/mkzxnlpxz7oqnpmj9a2s_400x400.png)
+# APIStrat
 ## [ app-e-strat ]
 ---
 # What?
++++
+# Duration
+* One day of workshops
++++?image=assets/images/workshop.jpg
++++
+* Two days of 40 minute long presentations
++++?image=assets/images/presentation.jpg
++++
+# Size 
+...medium ...
+( between 500 to 1000 attendees )
++++
+# Community
+* Microsoft Developers
+* Google Developers
+* Smart Bear Developers
+* and Various Community Developers
+
 ---
 # Where?
 +++?image=assets/images/portland.png
