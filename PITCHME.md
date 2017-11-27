@@ -37,11 +37,11 @@ Portland "don't"s...
 * ...that's will answer most user inquiries.
 +++
 ### We need a common language
-* What's a mediation layer, a translation layer, transportation layer...?
+* What's a mediation layer, a translation layer, a transportation layer...?
 * How do you define REST endpoints?
 * Is it OpenAPI v3, OpenAPI v2, or Swagger?
 +++
-### We need a way to more quickly diagnose failures complicated requests?
+### We need a way to more quickly diagnose failures?
 * How do I trace a specific request?
 * How can we analyze requests without needing to change the legacy infrastructure?
 * Is it a software or hardware problem?
