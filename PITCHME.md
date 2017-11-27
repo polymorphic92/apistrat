@@ -2,24 +2,18 @@
 ## [ app-e-strat ]
 ---
 # What?
-+++
-# Duration
-* One day of workshops
-+++?image=assets/images/workshop.jpg&size=contain
-+++
-* Two days of 40 minute long presentations
-+++?image=assets/images/presentation.jpg&size=contain
++++?image=assets/images/workshops-text.jpg&size=contain
++++?image=assets/images/presentations-text.jpg&size=contain
 +++
 # Size 
 ...medium ...
 ( between 500 to 1000 attendees )
 +++
 # Community
-* Microsoft Developers
-* Google Developers
+* @fa[fa-windows] Microsoft Developers
+* @fa[fa-google] Google Developers
 * Smart Bear Developers
 * and Various Community Developers
-
 ---
 # Where?
 +++?image=assets/images/portland.png
