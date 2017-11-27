@@ -1,5 +1,4 @@
-# APIStrat
-## [ app-e-strat ]
+![Logo](http://events.linuxfoundation.org/sites/events/files/logo_apistrat_white.png)
 ---
 # What was it?
 +++?image=assets/images/workshops-text.jpg&size=contain
