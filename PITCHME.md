@@ -31,21 +31,22 @@ Portland "don't"s...
 ---
 # Why did I propose it?
 +++
-# We need more documentation
+### We need more documentation
 * ...that's consistent.
 * ...that accounts for various versions across environments.
 * ...that's will answer most user inquiries.
 +++
-# We need a common language
+### We need a common language
 * What's a mediation layer, a translation layer, transportation layer...?
 * How do you define REST endpoints?
 * Is it OpenAPI v3, OpenAPI v2, or Swagger?
 +++
-# We need a way to more quickly diagnose failures complicated requests?
+### We need a way to more quickly diagnose failures complicated requests?
 * How do I trace a specific request?
 * How can we analyze requests without needing to change the legacy infrastructure?
 * Is it a software or hardware problem?
 +++
+### etc...
 * We should automate more.
 * We should standardize to industry security.
 * ...and so much more...
@@ -53,7 +54,6 @@ Portland "don't"s...
 # I needed to see how the industry approached these and other API pain points.
 ---
 # How we could be documenting our APIs?
-
 ---
 # How we could be implementing our APIs?
 ---
