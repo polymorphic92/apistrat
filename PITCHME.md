@@ -60,6 +60,11 @@ Portland "don't"s...
 # How we should be using our APIs?
 ---
 # The Verdict?
++++
+* Portland is great!
+* The workshops will payoff once istio is past alpha!
+* Plenty of tooling to strengthen our weakness.
+* I would go again, hopefully as a mentor rather than a mentee.
 ---
 # End
 
