@@ -6,8 +6,8 @@
 +++?image=assets/images/presentations-text.jpg&size=contain
 +++
 # Size 
-...medium ...
-( between 500 to 1000 attendees )
+...small...
+( between 200 and 300 people )
 +++
 # Community
 * Microsoft Developers
