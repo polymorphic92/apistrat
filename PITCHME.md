@@ -18,15 +18,15 @@
 # Where was it?
 +++?image=assets/images/portland.png
 +++
-do...
+Portland "do"s...
 * eat Voodoo Doughnuts.
 * hike Forest Park.
 * visit Powell's and the Saturday Market.
 +++
-don't...
+Portland "don't"s...
 * ignore the east side.
 * rent a car.
-* acknowledge the homeless problem.
+* tip the homeless.
 ---
 # Why did I propose it?
 +++
