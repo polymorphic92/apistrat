@@ -6,7 +6,7 @@
 +++?image=assets/images/presentations-text.jpg&size=contain
 +++
 # Size 
-...small...
+...small...\n\r
 ( between 200 and 300 people )
 +++
 # Community
