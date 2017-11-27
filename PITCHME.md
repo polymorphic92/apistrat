@@ -54,11 +54,11 @@ Portland "don't"s...
 +++
 ### I needed to see how the industry approached these and other API pain points.
 ---
-# How we could be documenting our APIs?
+# How could we be documenting our APIs?
 ---
-# How we could be implementing our APIs?
+# How could we be implementing our APIs?
 ---
-# How we should be using our APIs?
+# How could we be using our APIs?
 ---
 # The Verdict?
 +++
