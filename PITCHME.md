@@ -55,10 +55,25 @@ Portland "don't"s...
 ### I needed to see how the industry approached these and other API pain points.
 ---
 # How could we be documenting our APIs?
++++ 
+We're already using swagger (OAS v2.0)
+
+But were you aware of:
+* Swagger CodeGen?
+* Swagger Editor?
+* Redoc?
+* Zally?
 ---
 # How could we be implementing our APIs?
++++
+Leveraging openshift continues to become easier and easier:
+* service mesh
+* distributed tracing
+* circuit breaker methodology
 ---
 # How could we be using our APIs?
++++
+
 ---
 # The Verdict?
 +++
