@@ -45,7 +45,9 @@ don't...
 * How can we analyze requests without needing to change the legacy infrastructure?
 * Is it a software or hardware problem?
 +++
-# We should automate more!
+* We should automate more.
+* We should standardize to industry security.
+* ...and so much more...
 +++
 # I needed to see how the industry approached these and other API pain points.
 ---
