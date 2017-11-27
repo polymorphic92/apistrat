@@ -10,8 +10,8 @@
 ( between 500 to 1000 attendees )
 +++
 # Community
-* @fa[fa-windows] Microsoft Developers
-* @fa[fa-google] Google Developers
+* Microsoft Developers
+* Google Developers
 * Smart Bear Developers
 * and Various Community Developers
 ---
