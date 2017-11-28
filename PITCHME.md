@@ -35,14 +35,14 @@ Portland "don't"s...
 ### We need more documentation
 * ...that's consistent.
 * ...that accounts for various versions across environments.
-* ...that's will answer most user inquiries.
+* ...that will answer most user inquiries.
 +++
 ### We need a common language
 * What's a mediation layer, a translation layer, a transportation layer...?
 * How do you define REST endpoints?
 * Is it OpenAPI v3, OpenAPI v2, or Swagger?
 +++
-### We need a way to more quickly diagnose failures?
+### We need a way to more quickly diagnose failures
 * How do I trace a specific request?
 * How can we analyze requests without needing to change the legacy infrastructure?
 * Is it a software or hardware problem?
@@ -52,6 +52,7 @@ Portland "don't"s...
 * We should standardize to industry security.
 * ...and so much more...
 +++
+# put briefly...
 ### I needed to see how the industry approached these and other API pain points.
 ---
 # How could we be documenting our APIs?
@@ -68,15 +69,18 @@ But were you aware of...
 ---
 # How could we be implementing our APIs?
 +++
-Leveraging openshift continues to become easier and easier...
+Leveraging container technology continues to become easier and easier
+and allows for a great deal of additional tooling...
 +++
 Service Mesh + Sidecar Proxies
 
 ![service_mesh](https://buoyant.io/wp-content/uploads/2017/04/linkerd-service-mesh-diagram-1024x587.png)
 +++
-# Distributed Tracing
+Distributed Tracing
+
+![zipkin](http://engineering.curalate.com/assets/2016-09-12-zipkin/sample_zipkin_trace.png)
 +++
-# retries + circuit breaker pattern
+retries + circuit breaker pattern
 
 ![circuit_breaker](https://martinfowler.com/bliki/images/circuitBreaker/sketch.png)
 
@@ -121,12 +125,13 @@ We could be using the following technologies...
 # The Verdict?
 +++
 * Portland is great!
-* The workshops will payoff once istio is past alpha!
-* Plenty of tooling to strengthen our weakness.
+* Became confident that istio will be the standard when it's finished.
+* Discovered plenty of tooling to strengthen our weaknesses.
 * I would go again, hopefully as a mentor rather than a mentee.
 +++
 # tldr
 ### APIs should be welcoming, holistic, and operable. 
+### Pain points should be seen as opportunities.
 ---
 # End
 
