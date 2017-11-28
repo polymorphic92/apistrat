@@ -58,27 +58,61 @@ Portland "don't"s...
 +++ 
 We're already using swagger (OAS v2.0)
 
-But were you aware of:
-* Swagger CodeGen?
-* Swagger Editor?
-* Redoc?
-* Zally?
+But were you aware of...
++++
+# Swagger CodeGen/Editor?
++++
+# Redoc?
++++
+# Zally?
 ---
 # How could we be implementing our APIs?
 +++
-Leveraging openshift continues to become easier and easier:
-* service mesh
-* distributed tracing
-* circuit breaker methodology
+Leveraging openshift continues to become easier and easier...
++++
+# Service Mesh + Sidecar Proxies
+
+![service_mesh](https://buoyant.io/wp-content/uploads/2017/04/linkerd-service-mesh-diagram-1024x587.png)
++++
+# Distributed Tracing
++++
+# retries + circuit breaker pattern
 ---
 # How could we be using our APIs?
 +++
 We aren't locked into our api standards yet
 
-We could be using the following technologies:
-* hypermedia
-* graphQL
-* serverless architectures
+We could be using the following technologies...
++++
+### hypermedia
+
+```
+{
+    "object": [ "course" ],
+    "properties": {
+    },
+    "actions": [
+    	"name": "get_course",
+	"title": "Get Course",
+	"method": "GET",
+	"href": "example.org/course",
+	"type": "application/json",
+	"fields": [ ... ]
+    ]
+}
+```
+
++++
+### graphQL
+
+![graphql_example](assets/images/graphql.png)
+
++++
+### serverless architectures
+
+* early stages of adoption
+* useful for singular batch jobs
+* removes the need for always on APIs
 ---
 # The Verdict?
 +++
@@ -86,6 +120,9 @@ We could be using the following technologies:
 * The workshops will payoff once istio is past alpha!
 * Plenty of tooling to strengthen our weakness.
 * I would go again, hopefully as a mentor rather than a mentee.
++++
+# tldr
+### APIs should be welcoming, holistic, and operable. 
 ---
 # End
 
