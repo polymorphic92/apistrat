@@ -84,13 +84,13 @@ and allows for a great deal of additional tooling...
 Service Mesh + Sidecar Proxies
 
 ![service_mesh](https://buoyant.io/wp-content/uploads/2017/04/linkerd-service-mesh-diagram-1024x587.png)
+
 +++
 Distributed Tracing
 
 ![zipkin](http://engineering.curalate.com/assets/2016-09-12-zipkin/sample_zipkin_trace.png)
-+++
 
-![circuit_breaker](https://martinfowler.com/bliki/images/circuitBreaker/sketch.png)
++++?image=https://martinfowler.com/bliki/images/circuitBreaker/sketch.png
 
 ---
 # How could we be using our APIs?
