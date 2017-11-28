@@ -70,13 +70,16 @@ But were you aware of...
 +++
 Leveraging openshift continues to become easier and easier...
 +++
-# Service Mesh + Sidecar Proxies
+Service Mesh + Sidecar Proxies
 
 ![service_mesh](https://buoyant.io/wp-content/uploads/2017/04/linkerd-service-mesh-diagram-1024x587.png)
 +++
 # Distributed Tracing
 +++
 # retries + circuit breaker pattern
+
+![circuit_breaker](https://martinfowler.com/bliki/images/circuitBreaker/sketch.png)
+
 ---
 # How could we be using our APIs?
 +++
@@ -84,7 +87,7 @@ We aren't locked into our api standards yet
 
 We could be using the following technologies...
 +++
-### hypermedia
+ hypermedia
 
 ```
 {
@@ -113,6 +116,7 @@ We could be using the following technologies...
 * early stages of adoption
 * useful for singular batch jobs
 * removes the need for always on APIs
+
 ---
 # The Verdict?
 +++
