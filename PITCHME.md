@@ -73,7 +73,7 @@ http://rebilly.github.io/ReDoc/
 +++
 # Zally?
 
-https://128.205.133.100:30880
+http://128.205.133.100:30300/
 
 ---
 # How could we be implementing our APIs?
