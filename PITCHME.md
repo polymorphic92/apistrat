@@ -62,10 +62,19 @@ We're already using swagger (OAS v2.0)
 But were you aware of...
 +++
 # Swagger CodeGen/Editor?
+
+https://editor.swagger.io/
+
 +++
 # Redoc?
+
+http://rebilly.github.io/ReDoc/
+
 +++
 # Zally?
+
+https://128.205.133.100:30880
+
 ---
 # How could we be implementing our APIs?
 +++
@@ -80,7 +89,6 @@ Distributed Tracing
 
 ![zipkin](http://engineering.curalate.com/assets/2016-09-12-zipkin/sample_zipkin_trace.png)
 +++
-retries + circuit breaker pattern
 
 ![circuit_breaker](https://martinfowler.com/bliki/images/circuitBreaker/sketch.png)
 
