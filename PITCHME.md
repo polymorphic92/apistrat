@@ -78,7 +78,7 @@ http://128.205.133.100:30300/
 +++
 ### A new home for all of the API documentation
 
-https://webdoc.acsu.buffalo.edu/confluence/display/acsstu/API+Management+Home
+https://goo.gl/mHQ9as
 
 ---
 # How could we be implementing our APIs?
