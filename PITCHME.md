@@ -138,7 +138,7 @@ We could be using the following technologies...
 # The Verdict?
 +++
 * Portland is great!
-* Became confident that _istio_ will be the standard when it's finished.
+* Became confident that __istio__ will be the standard when it's finished.
 * Discovered plenty of tooling to strengthen our weaknesses.
 * I would go again, hopefully as a mentor rather than a mentee.
 +++
