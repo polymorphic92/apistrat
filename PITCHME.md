@@ -90,7 +90,7 @@ Distributed Tracing
 
 ![zipkin](http://engineering.curalate.com/assets/2016-09-12-zipkin/sample_zipkin_trace.png)
 
-+++?image=https://martinfowler.com/bliki/images/circuitBreaker/sketch.png
++++?image=https://martinfowler.com/bliki/images/circuitBreaker/sketch.png?size=contain
 
 ---
 # How could we be using our APIs?
